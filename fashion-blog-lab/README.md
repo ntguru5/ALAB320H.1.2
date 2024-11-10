@@ -1,3 +1,3 @@
 # [Netlify Live Link](Netlify link here)
-# [GitHub Pages Live Link](GitHub Pages link of HTML version)
-# [GitHub Link of HTML Version](GitHub link for HTML version)
+# [GitHub Pages Live Link](https://ntguru5.github.io/ALAB320H.1.2/)
+# [GitHub Link of HTML Version](https://github.com/ntguru5/ALAB320H.1.2)
